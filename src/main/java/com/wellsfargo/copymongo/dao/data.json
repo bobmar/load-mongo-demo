@@ -1,0 +1,16 @@
+[
+  {
+    "employeeId": "123",
+    "employeeName": "abc",
+    "salaries": [
+      {
+        "date": "2024-03-15",
+        "salary": 5000
+      },
+      {
+        "date": "2024-03-20",
+        "salary": 5000
+      }
+    ]
+  }
+]
